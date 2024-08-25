@@ -3,4 +3,4 @@ Uma atividade com o objetivo de aplicar conceitos de git, criar, hospedar no Git
 
 ## Integrantes
 - Alinny  Ribeiro da Cunha
-- Nickolas Augusto Albuquerque Primo
+- Nickolas Primo
